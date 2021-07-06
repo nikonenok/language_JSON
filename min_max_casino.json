@@ -1,11 +1,26 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Card Games",
+    "body": "Card Games"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Roulette",
+    "body": "Roulette"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "MinMax",
+    "body": "Min Max"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "JackPot",
+    "body": "JackPot"
+  },
+  ]
